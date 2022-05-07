@@ -1,0 +1,44 @@
+body {
+    background-color: bisque;
+}
+
+#filterContainer {
+    text-align: center;
+    display: flex;
+
+}
+
+
+.btn-primary {
+    color:antiquewhite;
+    border-color: aliceblue;
+    margin: 2em;
+}
+
+#studentContainer {
+    justify-content: center;
+    flex-flow: row wrap;
+    text-align: center;
+    display: flex;
+}
+
+.card {
+    width: 350px;
+    margin: 1.5em;
+    padding: auto;
+
+}
+
+
+#expelledCard {
+    justify-content: center;
+    flex-flow:row wrap;
+    text-align: center;
+    display: flex;
+}
+
+.card2 {
+    width: 350px;
+    margin: 1.5em;
+    padding: auto;
+}
